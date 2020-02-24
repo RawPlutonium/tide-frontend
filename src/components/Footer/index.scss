@@ -1,9 +1,11 @@
-footer{
-    position: fixed; 
+.footer{
+    position: relative; 
     left: 0; 
     bottom: 0; 
     width: 100%;
     font-family: 'Lato',;
     font-size: 1.2em;   
-    padding-top: 10rem;
+    background: #f1ce79;
+    height: 5rem !important;
+    padding: 3rem 0 4rem 0 !important;
 }

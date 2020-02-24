@@ -14,7 +14,7 @@ function Banner(props){
                             </div>
                             <div className="column">
                                 <figure>
-                                    <img src="https://res.cloudinary.com/githigi-tech/image/upload/v1582557834/tide/2885863_rep4je.png" alt="tide management services" height/>
+                                    <img className="img-banner" src="https://res.cloudinary.com/githigi-tech/image/upload/v1582557834/tide/2885863_rep4je.png" alt="tide management services" />
                                 </figure>
                             </div>
                         </div>
